@@ -1,0 +1,15 @@
+Data science is the field that combines statistics, programming, and domain knowledge to extract insights and value from data.
+
+Common Tools & Languages:
+	Python (pandas, NumPy, scikit-learn, TensorFlow, etc.)
+	R
+	SQL
+	Jupyter Notebooks
+	Tableau / Power BI
+
+Real-World Applications:
+	Predicting customer behavior
+	Recommender systems (like Netflix or Amazon)
+	Fraud detection
+	Health analytics
+	Natural language processing

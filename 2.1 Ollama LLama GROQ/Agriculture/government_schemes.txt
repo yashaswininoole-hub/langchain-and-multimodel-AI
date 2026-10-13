@@ -1,0 +1,13 @@
+AGRICULTURAL GOVERNMENT SCHEMES AND SUBSIDIES DIRECTORY
+
+1. DIRECT INCOME SUPPORT AND FORMAL INSTITUTIONAL CREDIT
+- PM-KISAN (Pradhan Mantri Kisan Samman Nidhi): A central sector scheme providing income support of financial aid directly credited to the Aadhaar-seeded bank accounts of eligible landholding farmer families across three equal installments of financial allocations per fiscal cycle.
+- Kisan Credit Card (KCC): Institutional credit mechanism empowering farmers to access short-term formal loans at highly subsidized interest rates (often further reduced via prompt repayment interest subventions) to cover working capital requirements for seeds, fertilizers, pesticides, and post-harvest maintenance.
+
+2. RISK MITIGATION AND COMPREHENSIVE CROP INSURANCE
+- PMFBY (Pradhan Mantri Fasal Bima Yojana): A risk-shielding financial instrument protecting farmers against yield losses stemming from unpreventable natural risks (drought, floods, landslides, cloudbursts, pests, and diseases). 
+- Premium Structure & Claims: Features highly subsidized uniform farmer-paid premium rates (e.g., 2% of sum insured for all Kharif food crops and oilseeds, 1.5% for Rabi food crops and oilseeds, and 5% for annual commercial/horticultural crops). Claims are calculated transparently using crop cutting experiments (CCE) data integrated with remote sensing technology.
+
+3. INFRASTRUCTURE, MECHANIZATION, AND INPUT SUBSIDIES
+- PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan): Facilitates the installation of standalone off-grid solar agricultural water pumps, solarization of existing grid-connected agriculture pumps, and deployment of small-scale solar power plants on barren or cultivable farmlands to ensure daytime reliable irrigation access.
+- PKVY (Paramparagat Krishi Vikas Yojana): Promotes chemical-free organic farming clusters through community adoption. Provides financial assistance per hectare for organic input procurement, biopesticides, vermicompost units, third-party organic certification, and branding/packaging support for value-chain market linkages.

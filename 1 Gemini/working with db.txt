@@ -1,0 +1,131 @@
+Working with PDF,Notepad,Sqlite,JSON
+--------------------------------------
+ 
+    Prompt 
+	 
+	       User Prompt
+		                --> Question 
+						--> Program asking to AI Model
+				
+				LLM Response--> AI Message
+						
+		   System Prompt 
+		     
+			          --> Background Instruction to LLM
+					  
+					  --> To control behavior of Tokens
+					  
+		    Types of Prompts
+
+                    Instruction Prompt
+
+                    Zero-shot prompt
+
+                    One-shot , Few-shot prompts					
+   
+                    COT prompt
+					
+					....
+					
+	Configuration Params:
+	
+	           why?
+			   
+			   To Control the behavior of response 
+			   
+			   To control cost of Tokens
+			   
+		max_output_tokens
+		Temperature : low , High
+		Top K
+		Top P
+		       
+	Configuration Window :
+	
+	                      User Prompt
+						  
+						  System Prompt
+						  
+						  Chat History
+						  
+						  AI Message
+----------------------------------------------------------------------
+
+ Why GROK
+ --------
+ 
+   Generally LLMs are Paid once.
+   
+   LLMs are based on Token cost.
+   
+   Few LLM given by GROK they work on Cloud 
+   
+         --> They work on Lightening speed.
+		 
+		 -->performance is much equal to Paid LLM like claude/Open AI
+		 
+		 
+		    Problem:- changes LLMs every day.
+	----------------------------------------------------
+		
+		we need to create API key
+		
+		https://console.groq.com/keys
+		
+		through Gmail account.
+		
+We need to search LLMs in cloud
+
+      Llama,
+	  Mistral,
+	  gemma
+	  QWEN
+	  Falcon 
+		
+	Every LLM will be trained on 1B parameters 
+	                             2B parameters
+								 3B parameters
+								 
+								 8B parameters
+								 20B parameters
+------------------------------------------------------------------
+
+Working with PDF,Notepad,Sqlite,JSON
+
+pdf
+---
+     text = extract text from pdf doc 
+	 
+	 text + question = Prompt 
+	 
+	 prompt ---> LLM ( Google gemini --> Flash_2.5
+	 
+	 LLM ---> Response 
+ ----------------------------------------------------------------
+ Working with SQlite tables
+ 
+    1. first, need to create database and tables, insert few records.
+	
+	2. convert sqlite db to pandas dataframe
+	           -----------------------------
+	3. convert dataframe to string
+	           ------------------
+	4. string + question = Prompt 
+	 
+	5. prompt ---> LLM ( Google gemini --> Flash_2.5
+	 
+	6. LLM ---> Response 
+--------------------------------------------------------------------
+
+Notepad
+
+    file I/O reading from notepad doc 
+	
+	same as pdf doc 
+---------------------------------------------------------------------
+
+Working with JSON database
+
+    JSON read and dump to prompt 
+
+---------------------------------------------------------------------

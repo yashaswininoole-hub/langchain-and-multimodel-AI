@@ -1,0 +1,15 @@
+IRRIGATION AND WATER MANAGEMENT REFERENCE MANUAL
+
+1. CROP WATER DYNAMICS AND SCHEDULING CRITERIA
+Efficient water management depends on matching irrigation events with real-time evapotranspiration (ETc) rates and physiological sensitivities:
+- Critical Irrigation Stages: Certain phases cannot sustain water deficit without permanent yield loss. For instance, Wheat requires absolute irrigation at Crown Root Initiation (CRI, 21 days post-sowing), tillering, flowering, and grain-filling stages. Rice requires continuous submergence or saturated soil during vegetative growth to suppress weeds and maintain redox potential.
+- Soil Moisture Tension: Utilizing tensiometers or capacitance probes to trigger irrigation when soil matric potential drops below prescribed thresholds (e.g., -30 to -50 kPa for vegetable crops).
+
+2. ADVANCED MICRO-IRRIGATION INFRASTRUCTURE
+Moving away from inefficient flood/furrow irrigation toward precision delivery mechanisms:
+- Drip (Trickle) Irrigation: Network of polyethylene mainlines, sub-mains, and lateral tubes fitted with pressure-compensating emitters delivering water drop-by-drop precisely to the rhizosphere. Achieves up to 90–95% Water Use Efficiency (WUE), eliminates deep percolation losses, prevents weed proliferation between rows, and enables precise fertigation (injecting soluble fertilizers directly through irrigation lines).
+- Sprinkler Irrigation Systems: Pressurized overhead sprinklers mimicking natural rainfall patterns. Highly suitable for undulating topography, sandy soils with high infiltration rates, and closely spaced field crops like groundnut, pulses, and fodder.
+
+3. RAINWATER HARVESTING AND WATERSHED CONSERVATION
+- On-Farm Water Storage: Excavation of farm ponds (lined with low-density polyethylene sheets to prevent seepage) to capture high-intensity monsoon surface runoff for life-saving supplemental irrigation during dry spells.
+- Groundwater Recharge Structures: Construction of check dams, contour trenches, percolation tanks, and recharge shafts to reverse falling water tables and maintain sustainable aquifer yields across semi-arid farming districts.

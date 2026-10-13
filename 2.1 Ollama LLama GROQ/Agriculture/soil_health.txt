@@ -1,0 +1,22 @@
+SOIL HEALTH AND FERTILIZER MANAGEMENT GUIDE 
+
+1. DIAGNOSTIC PARAMETERS OF AGRICULTURAL SOILS
+Evaluating soil fertility requires analyzing three primary dimensions:
+- Physical Properties: Soil texture (ratio of sand, silt, and clay) determines water retention capacity and aeration. Ideal loam soils possess balanced drainage. Bulk density should remain below 1.4 g/cm³ to prevent root restriction.
+- Chemical Properties: 
+  * Soil pH: The optimal range for maximum nutrient availability is 6.5 to 7.5. Soils with pH < 5.5 suffer from aluminum toxicity and phosphorus fixation, requiring agricultural lime amendments. Saline-sodic soils with pH > 8.5 require gypsum treatment.
+  * Electrical Conductivity (EC): Must remain below 1.0 dS/m. Values exceeding 2.0 dS/m cause osmotic stress, limiting water uptake by roots.
+  * Soil Organic Carbon (SOC): A critical indicator of soil biological health. Target levels should exceed 0.75%.
+- Biological Properties: Microbial biomass carbon, active earthworm populations, and mycorrhizal fungi networks responsible for nutrient cycling.
+
+2. MACRONUTRIENT AND MICRONUTRIENT METABOLISM
+- Primary Macronutrients:
+  * Nitrogen (N): Drives vegetative development, chlorophyll formation, and protein synthesis. Deficiency triggers chlorosis (yellowing) starting from older, lower leaves due to nitrogen mobility.
+  * Phosphorus (P): Vital for energy transfer (ATP), root architecture establishment, and early maturation. Deficiency symptoms present as dark green or purplish discoloration on older leaves and stunted stems.
+  * Potassium (K): Acts as an osmotic regulator, controlling stomatal closure/opening, enhancing water-use efficiency, and building mechanical stalk strength to resist lodging.
+- Secondary Macronutrients & Micronutrients: Calcium (Ca), Magnesium (Mg), and Sulfur (S). Micronutrient deficiencies—such as Zinc (Zn) causing "little leaf" or interveinal chlorosis in rice and maize, and Boron (B) deficiency causing hollow stems and flower abortion—are managed through targeted foliar chelate sprays.
+
+3. SOIL TESTING, SOIL HEALTH CARDS, AND FERTILIZER PRESCRIPTIONS
+- Soil Sampling Methodology: Core samples collected from a depth of 0–15 cm across a zigzag pattern representing a uniform field block, composited into a 500g sample, air-dried, and sent to accredited laboratories.
+- Soil Health Card (SHC) Advisory: Translates lab findings into specific fertilizer dosing recommendations per crop.
+- Integrated Nutrient Management (INM): Combines mineral fertilizers (Urea, Diammonium Phosphate - DAP, Muriate of Potash - MOP) with bulky organic sources (Farm Yard Manure at 10-15 tonnes/ha, vermicompost, and green manuring crops like Sesbania aculeata incorporated before puddling) to maintain long-term soil carbon pools.

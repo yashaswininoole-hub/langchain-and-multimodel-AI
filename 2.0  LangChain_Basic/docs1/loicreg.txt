@@ -1,0 +1,12 @@
+Logistic Regression predicts probabilities for binary outcomes.
+
+Formula:
+P(y=1|x) = 1 / (1 + exp(- (β0 + β1*x1 + ... + βn*xn)))
+
+It uses the sigmoid function to map predictions between 0 and 1.
+
+Example (Python):
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression()
+model.fit(X_train, y_train)
+preds = model.predict_proba(X_test)[:,1]

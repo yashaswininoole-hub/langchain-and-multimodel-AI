@@ -1,0 +1,3 @@
+https://docs.langchain.com/langsmith/create-account-api-key
+
+https://huggingface.co/login?next=%2Fsettings%2Ftokens

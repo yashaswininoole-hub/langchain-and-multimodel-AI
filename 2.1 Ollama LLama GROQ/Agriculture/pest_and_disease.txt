@@ -1,0 +1,21 @@
+PEST AND DISEASE MANAGEMENT HANDBOOK
+
+1. PATHOLOGY AND TAXONOMY OF AGRICULTURAL THREATS
+Biotic stresses account for 20-30% of annual global yield gaps:
+- Insect Pests:
+  * Chewing Pests: Spodoptera litura (armyworm), Helicoverpa armigera (gram pod borer) devour leaves and reproductive structures.
+  * Sucking Pests: Aphids, whiteflies (Bemisia tabaci), and plant hoppers puncture vascular phloem bundles, causing wilting, leaf curling, and acting as vectors for deadly plant viruses (e.g., Yellow Mosaic Virus).
+- Fungal & Bacterial Pathogens:
+  * Magnaporthe oryzae causes rice blast, characterized by diamond-shaped leaf lesions with grey centers.
+  * Phytophthora infestans causes late blight in potatoes and tomatoes, thriving under cool, high-humidity conditions (15-22°C with relative humidity >90%).
+
+2. INTEGRATED PEST MANAGEMENT (IPM) HIERARCHY
+IPM minimizes chemical dependency by stacking multi-tier defensive controls:
+- Cultural Controls: Deep summer ploughing to expose hibernating pupae to direct sunlight and predatory birds; practicing strict crop rotation (e.g., alternating cereals with legumes breaks the host cycle of soil-borne cysts).
+- Mechanical & Physical Controls: Installation of yellow and blue sticky traps (20–25 traps/acre) to intercept winged sucking insects; setting up pheromone traps loaded with specific sex-pheromone lures (e.g., gossyplure for pink bollworm) at 5 traps/acre for mass trapping and population monitoring.
+- Biological Controls: Conservation and augmentation of beneficial insects like ladybird beetles, parasitic wasps (Trichogramma spp. released at 50,000/acre to parasitize lepidopteran eggs), and microbial formulations like Bacillus thuringiensis (Bt) or entomopathogenic fungi (Beauveria bassiana).
+
+3. CHEMICAL INTERVENTION, DOSAGE, AND SAFETY PRECAUTIONS
+- Economic Injury Level (EIL): Chemical pesticides are strictly forbidden as a prophylactic measure; they are deployed only when pest population density crosses the action threshold (EIL).
+- Application Best Practices: Calibrating nozzle sprayers to ensure uniform droplet distribution, wearing personal protective equipment (PPE rubber gloves, masks, goggles), and avoiding spraying during high wind speeds or peak midday heat.
+- Pre-Harvest Interval (PHI): Strict compliance with the mandatory waiting period specified on chemical labels between the final spray application and crop harvest to ensure toxic residue levels drop below Maximum Residue Limits (MRL) for human consumption.

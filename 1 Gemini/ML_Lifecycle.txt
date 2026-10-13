@@ -1,0 +1,63 @@
+Life Cycle of a Machine Learning (ML) Application
+-------------------------------------------------
+
+1. Problem Definition
+Objective: Clearly define the problem to solve.
+Key Activities:
+- Understand the business need (e.g., reduce churn, predict sales).
+- Identify the ML problem type: classification, regression, clustering, etc.
+- Define success metrics (e.g., accuracy > 90%).
+
+2. Data Collection
+Objective: Gather relevant and sufficient data.
+Key Activities:
+- Identify data sources (databases, APIs, sensors, logs, etc.).
+- Collect raw data with correct labeling (if supervised ML).
+- Ensure data quality, privacy, and compliance (e.g., GDPR).
+
+3. Data Preparation
+Objective: Clean and preprocess data for modeling.
+Key Activities:
+- Handle missing values and outliers.
+- Normalize or standardize numerical features.
+- Encode categorical variables.
+- Perform feature engineering (new features, transformations).
+- Split into training, validation, and test sets.
+
+4. Model Selection
+Objective: Choose suitable ML algorithm(s).
+Key Activities:
+- Select candidate models (e.g., Logistic Regression, Random Forest, XGBoost, Neural Networks).
+- Balance complexity vs interpretability (simple models vs black-box).
+- Consider computational efficiency.
+
+5. Model Training
+Objective: Train models on prepared data.
+Key Activities:
+- Train with training dataset.
+- Tune hyperparameters (Grid Search, Random Search, Bayesian Optimization).
+- Use cross-validation to ensure robustness.
+
+6. Model Evaluation
+Objective: Measure model performance on unseen data.
+Key Activities:
+- Test on validation and test sets.
+- Use relevant metrics (accuracy, precision/recall, ROC-AUC, RMSE).
+- Analyze errors and confusion matrix.
+- Detect bias and fairness issues.
+
+7. Model Optimization
+Objective: Enhance model performance.
+Key Activities:
+- Fine-tune hyperparameters.
+- Perform feature selection (remove redundant features).
+- Use ensemble methods (Bagging, Boosting, Stacking).
+- Consider model compression or pruning for deployment efficiency.
+
+8. Model Deployment
+Objective: Deploy the trained model into production.
+Key Activities:
+- Integrate into applications (via API, batch jobs, embedded systems).
+- Ensure scalability, reliability, and security.
+- Monitor real-time performance (drift detection, retraining triggers).
+- Set up MLOps pipeline for CI/CD and automation.
